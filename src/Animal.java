@@ -1,4 +1,3 @@
-import java.util.List;
 import java.util.Random;
 /**
  * Representa um animal genérico na simulação de predador e presa.
